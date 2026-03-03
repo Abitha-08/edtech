@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  background: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+  padding: 40px;
+}
+
+button {
+  margin: 8px;
+  padding: 8px 15px;
+  border: none;
+  background: #2e86de;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1b4f72;
+}
+
+input {
+  padding: 8px;
+  margin: 8px;
+}
+
+.logout {
+  background: red;
+}
